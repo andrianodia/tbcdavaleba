@@ -1,0 +1,53 @@
+.text1 {
+  color: #5863e3;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 7px;
+  margin-top: 57px;
+}
+
+.text2 {
+  color: #000;
+  font-family: Helvetica;
+  font-size: 49px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1300px;
+  width: 1300px;
+}
+
+.s1 {
+  width: 371px;
+}
+
+textarea {
+  width: 756px;
+  height: 298px;
+  flex-shrink: 0;
+  border: 2px solid rgba(212, 211, 211, 0.3);
+  background: #f8f8f8;
+  resize: none;
+  margin-top: 52px;
+}
+
+::placeholder {
+  color: #99999a;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding: 23px 21px;
+}
+
+.s2 {
+  width: 756px;
+}
