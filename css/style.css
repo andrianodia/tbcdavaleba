@@ -1,4 +1,4 @@
-.text1 {
+.text3 {
   color: #5863e3;
   font-family: Helvetica;
   font-size: 17px;
@@ -129,13 +129,6 @@ input {
   line-height: normal;
 }
 
-.container3 {
-  display: flex;
-  justify-content: space-between;
-
-  width: 880px;
-}
-
 .text1 {
   color: #99999a;
   font-family: Helvetica;
@@ -143,4 +136,115 @@ input {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
+  margin-top: 10px;
+}
+
+.container3 {
+  display: flex;
+  justify-content: space-between;
+  width: 880px;
+  height: 100px;
+}
+
+.text4 {
+  color: #000;
+  font-family: Helvetica;
+  font-size: 49px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 548px;
+}
+
+.seqcia {
+  max-width: 1600px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.s8 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 53px;
+}
+
+.footer {
+  width: 100%;
+  height: 372px;
+  flex-shrink: 0;
+  background-color: #000;
+  margin-top: 40px;
+}
+
+h5 {
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 60px;
+}
+h3 {
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 60px;
+}
+
+.seqciaa {
+  max-width: 1200px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.diditexti {
+  color: #99999a;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  width: 295px;
+}
+
+.ghj {
+  color: #5863e3;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 70px;
+}
+
+.seqcia2 {
+  max-width: 1200px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.ghjj {
+  color: #5863e3;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 90px;
+}
+
+.ghjjj {
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 160px;
 }
